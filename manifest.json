@@ -1,0 +1,15 @@
+{
+    "name": "AD Blocker",
+    "version": "0.1.0",
+    "description": "A simple ad blocker in javascript, made to be my first github project",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["main.js"]
+    },
+    "icons": {
+        "16": "images/logo.png",
+        "48": "images/logo.png",
+        "128": "images/logo.png"
+    },
+    "manifest_version": 2
+}
