@@ -8,3 +8,5 @@ chrome.webRequest.onBeforeRequest.addListener(
         ["*://*.adroll.com/*", "*://*.g2.com/*", "*://*.totaladblock.com/*"]},
         ["blocking"]
 )
+
+/* For any issues, please contact kay.1#4467 on discord */
