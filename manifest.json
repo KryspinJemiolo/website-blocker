@@ -1,7 +1,7 @@
 {
-    "name": "AD Blocker",
+    "name": "Website Blocker Blocker",
     "version": "0.1.0",
-    "description": "A simple ad blocker in javascript, made to be my first github project",
+    "description": "A simple website blocker, chrome extension in javascript",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["main.js"]
