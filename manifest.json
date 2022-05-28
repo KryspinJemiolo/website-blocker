@@ -1,5 +1,5 @@
 {
-    "name": "Website Blocker Blocker",
+    "name": "Website Blocker",
     "version": "0.1.0",
     "description": "A simple website blocker, chrome extension in javascript",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
